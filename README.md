@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello! I'm Felipe Nogueira
 
-<!--
-**NOG01/NOG01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An aspiring programmer with a passion for technology and problem-solving. Currently, I am pursuing a degree in Systems Analysis and Development at UCSAL, where I am honing my skills and expanding my knowledge in various programming languages and technologies.
 
-Here are some ideas to get you started:
+## Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- Java
+- Python
+- SQL
+
+## GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NOG01&theme=highcontrast&langs_count=10&card_width=1000)
