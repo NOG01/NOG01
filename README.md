@@ -1,6 +1,6 @@
 # Hello! I'm Felipe Nogueira
 
-An aspiring programmer with a passion for technology and problem-solving. Currently, I am pursuing a degree in Systems Analysis and Development at UCSAL, where I am honing my skills and expanding my knowledge in various programming languages and technologies.
+An programmer with a passion for technology and problem-solving. Currently, I am pursuing a degree in Systems Analysis and Development at UCSAL, where I am honing my skills and expanding my knowledge in various programming languages and technologies.
 
 ## Technologies
 
